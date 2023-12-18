@@ -5,4 +5,3 @@ add test2
 merge test
 바뀌나?
 testA
-testB
