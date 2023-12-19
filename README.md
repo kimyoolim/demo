@@ -7,3 +7,4 @@ merge test
 testA
 bbb
 1234
+merge test
